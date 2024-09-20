@@ -1,0 +1,28 @@
+{
+  "name": "com.technowarlock.radarchartbuilder",
+  "version": "1.0.0",
+  "displayName": "Radar Chart Builder",
+  "description": "A Unity project for generating customizable radar charts for displaying game statistics.",
+  "unity": "2022.3",
+  "unityRelease": "41f1",
+  "changelogUrl": "https://github.com/TechnoWarlock/RadarChartBuilder-Package/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/TechnoWarlock/RadarChartBuilder-Package/blob/main/LICENSE.md",
+  "dependencies": {},
+  "keywords": [
+    "radar chart",
+    "game statistics",
+    "mesh generation"
+  ],
+  "author": {
+    "name": "TechnoWarlock",
+    "email": "tecnowarlock@gmail.com",
+    "url": "https://github.com/TechnoWarlock"
+  },
+  "samples" : [
+    {
+      "displayName": "Radar Chart Example",
+      "description": "A sample radar chart that demonstrates how to customize and create a dynamic radar chart.",
+      "path" : "Samples~"
+    }
+  ]
+}
